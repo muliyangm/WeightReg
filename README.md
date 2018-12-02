@@ -2,7 +2,7 @@
 
 This repository includes the code for training and evaluation of the method presented in:
 
-> Muli Yang, Cheng Deng, Feiping Nie, "[**Adaptive-Weighting discriminative regression for multi-view classification**](https://doi.org/10.1016/j.patcog.2018.11.015)", *Pattern Recognition*, 2019.
+> Muli Yang, Cheng Deng, Feiping Nie, "[Adaptive-Weighting discriminative regression for multi-view classification](https://doi.org/10.1016/j.patcog.2018.11.015)", *Pattern Recognition*, 2019.
 
 The code is developed upon MatLab R2016b.
 
