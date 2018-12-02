@@ -9,7 +9,7 @@ The code is developed upon MatLab R2016b.
 ## How to use
 
 The training and the evaluation processes are wrapped up as a demo.
-Just run DEMO.m and you will get instant output.
+Just run `DEMO.m` and you will get instant output.
 
 ## Citation
 
