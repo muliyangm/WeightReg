@@ -16,7 +16,7 @@ Just run DEMO.m and you will get instant output.
 If you find the code helpful, please cite our work with
 
 ```
-@article{yang2018adaptive,
+@article{yang2019weightreg,
   title={Adaptive-Weighting Discriminative Regression for Multi-View Classification},
   author={Yang, Muli and Deng, Cheng and Nie, Feiping},
   journal={Pattern Recogn.},
